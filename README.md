@@ -8,5 +8,16 @@ HUH.SH uses End-to-End Encryption ( E2EE ) 🔒 to safeguard your privacy and on
  - Dark mode
  - Reply to message
 
+## Tech
+ - [Dotnet 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+ - [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr)
+ - [ReactJS](https://reactjs.org)
+ - [Typescript](https://www.typescriptlang.org)
+ - [Redux-Toolkit](https://redux-toolkit.js.org)
+ - [Material UI](https://mui.com)
+ - [AWS Lightsail](https://aws.amazon.com/lightsail)
+ - [AWS Cloudformation](https://aws.amazon.com/cloudformation)
+ - [Github Actions](https://github.com/features/actions)
+
 ## Issues
 Found a bug 🐛? Help me squash it by [reporting it](https://github.com/adelinosousa/huh.sh/issues/new).
