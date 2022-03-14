@@ -5,7 +5,7 @@ HUH.SH uses End-to-End Encryption ( E2EE ) 🔒 to safeguard your privacy and on
 
 ## Upcoming features
  - File transfer
- - Dark mode
+ - ~~Dark mode~~ &#9989;
  - Reply to message
 
 ## Tech
